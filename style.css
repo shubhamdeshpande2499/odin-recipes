@@ -1,0 +1,21 @@
+.heading{
+    color:white;
+    background-color: black;
+    text-align: center;
+    margin: 50px;
+    border: 2px solid rgb(249, 245, 245);
+    padding: 40px;
+   
+}
+.recipe-1,.recipe-2,.recipe-3{
+    background-color: azure ;
+    padding: 40px;
+    border: 2px solid;
+    margin: 50px;
+    color: rgb(102, 118, 118);
+    
+}
+.list{
+    text-align: center;
+    list-style: none;
+}
